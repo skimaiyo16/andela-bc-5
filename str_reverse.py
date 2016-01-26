@@ -41,7 +41,7 @@ def reversez(s):
 
 
 
-# examples
+# examples for changes
 print reverse("andela")
 print reversex("hello")
 print reversey("hello world")
